@@ -19,3 +19,4 @@ Dataset used:(https://www.kaggle.com/datasets/olyadgetch/wheat-leaf-dataset)
 | F1 Score | 96.8% |
 
 ## 📈 Confusion Matrix
+<img width="574" height="547" alt="image" src="https://github.com/user-attachments/assets/a14a3048-6f8d-4e92-b770-34a665f1666f" />
